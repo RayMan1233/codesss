@@ -63,7 +63,7 @@ local themeStyles = {
         TextColor = Color3.fromRGB(255,255,255),
         ElementColor = Color3.fromRGB(20, 20, 20)
     },
-    TLTheme = {
+    OceanTheme = {
         SchemeColor = Color3.fromRGB(207, 96, 36),
         Background = Color3.fromRGB(163, 162, 165),
         Header = Color3.fromRGB(200, 200, 200),
